@@ -5,7 +5,29 @@ This repository contains simple Machine Learning projects created for daily prac
 ## Project Structure
 
 - **Supervised**: Contains projects based on supervised learning algorithms.
+    - BigMartSales
+    - Boston House Price
+    - Breast Cancer Classification
+    - California Housing Prices
+    - CaloriesBurnt
+    - CarPricePrediction
+    - CreditCardFraud
+    - Diabetes
+    - FPL
+    - GoldPricePrediction
+    - HeartDisease
+    - Medical Insurance
+    - ParkinsonsDetection
+    - PycharmProjects
+    - Sonar Rock vs Mine
+    - SpamMailPrediction
+    - Titanic
+    - Wine
+    - fakeNews
+    - loanStatus
 - **Unsupervised**: Contains projects utilizing unsupervised learning techniques.
+    - CustomerSegmentation
+    - MovieRecommendation
 - Each project directory includes a relevant dataset for direct experimentation.
 
 ## Getting Started
